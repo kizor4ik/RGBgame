@@ -1,0 +1,164 @@
+INPUT:
+3
+RGGBBGGRBRRGGBG
+RBGRBGRBGRBGRBG
+RRRRGBBBRGGRBBB
+GGRGBGGBRRGGGBG
+GBGGRRRRRBGGRRR
+BBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBB
+RRRRRRRRRRRRRRR
+RRRRRRGGGGRRRRR
+GGGGGGGGGGGGGGG
+RRRRRRRRRRRRRRR
+RRRRRRRRRRRRRRR
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+BBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBB
+RRRRRRRRRRRRRRR
+RRRRRRRRRRRRRRR
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+RBGRBGRBGRBGRBG
+BGRBGRBGRBGRBGR
+GRBGRBGRBGRBGRB
+RBGRBGRBGRBGRBG
+BGRBGRBGRBGRBGR
+GRBGRBGRBGRBGRB
+RBGRBGRBGRBGRBG
+BGRBGRBGRBGRBGR
+GRBGRBGRBGRBGRB
+RBGRBGRBGRBGRBG
+OUTPUT:
+Game 1:
+Move 1 at (4,1): removed 32 balls of color B, got 900 points.
+Move 2 at (2,1): removed 39 balls of color R, got 1369 points.
+Move 3 at (1,1): removed 37 balls of color G, got 1225 points.
+Move 4 at (3,4): removed 11 balls of color B, got 81 points.
+Move 5 at (1,1): removed 8 balls of color R, got 36 points.
+Move 6 at (2,1): removed 6 balls of color G, got 16 points.
+Move 7 at (1,6): removed 6 balls of color B, got 16 points.
+Move 8 at (1,2): removed 5 balls of color R, got 9 points.
+Move 9 at (1,2): removed 5 balls of color G, got 9 points.
+Final score: 3661, with 1 balls remaining.
+Game 2:
+Move 1 at (1,1): removed 30 balls of color G, got 784 points.
+Move 2 at (1,1): removed 30 balls of color R, got 784 points.
+Move 3 at (1,1): removed 30 balls of color B, got 784 points.
+Move 4 at (1,1): removed 30 balls of color G, got 784 points.
+Move 5 at (1,1): removed 30 balls of color R, got 784 points.
+Final score: 4920, with 0 balls remaining.
+Game 3:
+Final score: 0, with 150 balls remaining.
+
+INPUT:
+1
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+OUTPUT:
+Game 1:
+Move 1 at (1,1): removed 150 balls of color G, got 21904 points.
+Final score: 22904, with 0 balls remaining.
+
+INPUT:
+1
+GGGGGGGGGGGGGGG
+GRRRRRRRRRRRRRG
+GRGGGGGGGGGGGRG
+GRGBBBBBBBBBGRG
+GRGBGGGGGGGBGRG
+GRGBGGGGGGGBGRG
+GRGBBBBBBBBBGRG
+GRGGGGGGGGGGGRG
+GRRRRRRRRRRRRRG
+GGGGGGGGGGGGGGG
+OUTPUT:
+Game 1:
+Move 1 at (1,1): removed 46 balls of color G, got 1936 points.
+Move 2 at (1,1): removed 38 balls of color R, got 1296 points.
+Move 3 at (1,1): removed 30 balls of color G, got 784 points.
+Move 4 at (1,1): removed 22 balls of color B, got 400 points.
+Move 5 at (1,1): removed 14 balls of color G, got 144 points.
+Final score: 5560, with 0 balls remaining.
+
+INPUT:
+1
+RRRRRRRGGGGGGGG
+GGGGGGGGRRRRRRR
+RRRRRRRGGGGGGGG
+GGGGGGGGRRRRRRR
+RRRRRRRGGGGGGGG
+GGGGGGGGRRRRRRR
+RRRRRRRGGGGGGGG
+GGGGGGGGRRRRRRR
+RRRRRRRGGGGGGGG
+GGGGGGGGRRRRRRR
+OUTPUT:
+Game 1:
+Move 1 at (1,1): removed 80 balls of color G, got 6084 points.
+Move 2 at (1,1): removed 70 balls of color R, got 4624 points.
+Final score: 11708, with 0 balls remaining.
+
+INPUT:
+1
+RGGBBGGGGGGGGGG
+RRGGBBGGGGGGGGG
+GRRGGBBGGGGGGGG
+GGRRGGBBGGGGGGG
+GGGRRGGBBGGGGGG
+GGGGRRGGBBGGGGG
+GGGGGRRGGBBGGGG
+GGGGGGRRGGBBGGG
+GGGGGGGRRGGBBGG
+GGGGGGGGRRGGBBG
+OUTPUT:
+Game 1:
+Move 1 at (10,6): removed 55 balls of color G, got 2809 points.
+Move 2 at (1,1): removed 36 balls of color G, got 1156 points.
+Move 3 at (3,2): removed 20 balls of color G, got 324 points.
+Move 4 at (3,4): removed 20 balls of color B, got 324 points.
+Move 5 at (1,1): removed 19 balls of color R, got 289 points.
+Final score: 5902, with 0 balls remaining.
+
+INPUT:
+1
+RGGGGGGGGGGGGGB
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGG
+BGGGGGGGGGGGGGR
+OUTPUT:
+Game 1:
+Move 1 at (2,1): removed 146 balls of color G, got 20736 points.
+Final score: 20736, with 4 balls remaining.
+
+INPUT:
+1
+GRBRBRBRBRBRBRG
+GGGGGGGGGGGGGGG
+GBRBRBRBRBRBRBG
+GGGGGGGGGGGGGGG
+GRBRBRBRBRBRBRG
+GGGGGGGGGGGGGGG
+GBRBRBRBRBRBRBG
+GGGGGGGGGGGGGGG
+GRBRBRBRBRBRBRG
+GGGGGGGGGGGGGGG
+OUTPUT:
+Game 1:
+Move 1 at (1,1): removed 85 balls of color G, got 6889 points.
+Final score: 6889, with 65 balls remaining.
